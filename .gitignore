@@ -1,0 +1,9 @@
+# Ignore virtual environment
+CVAenv/
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+response.mp3
+joke.py
+.env
